@@ -1,0 +1,15 @@
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\bin\Debug\net7.0\YP2.4.exe
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\bin\Debug\net7.0\YP2.4.deps.json
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\bin\Debug\net7.0\YP2.4.runtimeconfig.json
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\bin\Debug\net7.0\YP2.4.dll
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\bin\Debug\net7.0\YP2.4.pdb
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\obj\Debug\net7.0\YP2.4.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\obj\Debug\net7.0\YP2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\obj\Debug\net7.0\YP2.4.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\obj\Debug\net7.0\YP2.4.AssemblyInfo.cs
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\obj\Debug\net7.0\YP2.4.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\obj\Debug\net7.0\YP2.4.dll
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\obj\Debug\net7.0\refint\YP2.4.dll
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\obj\Debug\net7.0\YP2.4.pdb
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\obj\Debug\net7.0\YP2.4.genruntimeconfig.cache
+C:\Users\artem\Desktop\лабы\РКИС\2 семестр\лабы код\YP2.4\YP2.4\obj\Debug\net7.0\ref\YP2.4.dll
